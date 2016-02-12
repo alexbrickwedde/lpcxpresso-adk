@@ -1,0 +1,1 @@
+The goal of this project is to port the Android Open Accessory Developpement Kit to LPCXpresso.
